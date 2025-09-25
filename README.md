@@ -1,16 +1,13 @@
-# flutter_auth
+# Flutter Firebase Auth
 
-A new Flutter project.
+A simple Flutter application showcasing Firebase Authentication integration with Email & Password signup and signin. This project is a minimal reference implementation to help beginners quickly understand how to integrate and use Firebase Auth in their own apps.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+✅ User Signup with email & password
 
-A few resources to get you started if this is your first Flutter project:
+✅ User Signin with email & password
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Firebase Authentication integration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Clean and simple UI
